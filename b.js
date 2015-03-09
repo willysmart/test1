@@ -1,0 +1,3 @@
+fucntion b() {
+	alert("b");
+}
